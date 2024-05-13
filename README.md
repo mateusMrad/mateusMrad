@@ -1,3 +1,4 @@
+
 ### Olá! Eu sou o Mateus Godinho ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-mrad/)
@@ -13,4 +14,8 @@
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-</div>
+</div><br/>
+
+Um ex advogado que está em processo de transição de carreira para a área de tecnologia
+
+### Meu Email: mateusmrad@gmail.com
